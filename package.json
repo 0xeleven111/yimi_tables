@@ -1,16 +1,15 @@
 {
-  "name": "tictactoe111",
-  "version": "1.0.0",
+  "name": "yimi_tables",
+  "version": "1.0.1",
   "description": "A test project",
-  "author": "Dfuums",
+  "author": "0xeleven111",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Dfuums/tictactoe"
+    "url": "https://github.com/0xeleven111/yimi_tables"
   },
   "main": "index.js",
   "dependencies": {
-    "lodash": "^4.17.21",
-    "tictactoe11": "^1.0.1"
+    "lodash": "^4.17.21"
   }
 }

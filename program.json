@@ -1,19 +1,20 @@
 {
-    "name": "tictactoe111",
-    "version": "1.0.0",
+    "name": "yimi_tables",
+    "version": "1.0.1",
     "description": "A test project",
     "main": "index.js",
     "scripts": {
         "start": "node index.js"
     },
-    "author": "Dfuums",
+    "author": "0xeleven111",
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Dfuums/tictactoe"
+        "url": "https://github.com/0xeleven111/yimi_tables"
     },
     "dependencies": {
         "nodemon": "^3.1.0",
         "tictactoe11": "^1.0.1"
+        
     }
 }
